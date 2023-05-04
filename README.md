@@ -1,2 +1,2 @@
-# prepcourse-henry
-este es un repositorio del modulo2 de henry 
+ezequiel uriona 
+prueba de como crear un repositorio y clonarlo desde github a mi computadora 
